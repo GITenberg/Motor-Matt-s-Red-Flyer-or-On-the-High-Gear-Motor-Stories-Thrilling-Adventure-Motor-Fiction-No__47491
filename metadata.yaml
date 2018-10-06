@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Motor Matt''s Red Flyer, or, On the High Gear
 
   Motor Stories Thrilling Adventure Motor Fiction No. 6, April 3, 1909'
